@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=YujalBasnet&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=UjwalGuragain&theme=radical" />
 </p>
 
 <p align="center" height="200">
@@ -29,5 +29,5 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YujalBasnet/YujalBasnet/output/github-snake-dark.svg?v=2" />
+<img src="https://raw.githubusercontent.com/UjwalGuragain/UjwalGuragain/output/github-snake-dark.svg?v=2" />
 </p>
