@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=YujalBasnet&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=UjwalGuragain&theme=radical"/>
 </p>
 
 <p align="center" height="200">
